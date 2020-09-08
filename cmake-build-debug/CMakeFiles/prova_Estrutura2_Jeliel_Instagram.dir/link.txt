@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/prova_Estrutura2_Jeliel_Instagram.dir/main.c.o CMakeFiles/prova_Estrutura2_Jeliel_Instagram.dir/grafo.c.o  -o prova_Estrutura2_Jeliel_Instagram 

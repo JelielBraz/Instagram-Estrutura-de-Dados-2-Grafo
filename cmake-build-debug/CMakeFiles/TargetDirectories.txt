@@ -1,0 +1,3 @@
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/cmake-build-debug/CMakeFiles/prova_Estrutura2_Jeliel_Instagram.dir

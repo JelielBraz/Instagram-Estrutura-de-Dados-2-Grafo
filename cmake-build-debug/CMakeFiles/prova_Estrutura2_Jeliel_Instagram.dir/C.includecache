@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/grafo.c
+grafo.h
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/grafo.h
+
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/grafo.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/main.c
+grafo.h
+/home/jeliel/CLionProjects/prova-Estrutura2-Jeliel-Instagram/grafo.h
+
