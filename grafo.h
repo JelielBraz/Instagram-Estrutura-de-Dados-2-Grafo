@@ -19,5 +19,10 @@ void mostraPerfil(Grafo* grafo, int no);
 void maiorNumeroSeguidores(Grafo* grafo);
 void menorNumeroSeguidores(Grafo* grafo);
 
+int numeroSeguindo(Grafo* grafo, int n_perfil);
+int numeroDeSeguidores(Grafo* grafo, int no);
 
-int numeroSeguidores(Grafo* grafo, int no);
+void pessoasQueSeguemMaisVelhas(Grafo *grafo);
+int segueSomenteMaisVelhos(No* no, int idadePerfilObservado, Grafo *grafo);
+
+int getIdateNo(Grafo* grafo, int no);

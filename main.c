@@ -8,6 +8,7 @@ int main(){
     addAresta(dir_grafo, 0,4);
     addAresta(dir_grafo, 1,2);
     addAresta(dir_grafo, 1,3);
+    addAresta(dir_grafo, 1,0);
     addAresta(dir_grafo, 3,2);
     addAresta(dir_grafo, 3,4);
     addAresta(dir_grafo, 3,5);
@@ -32,10 +33,12 @@ int main(){
     populaNoInstagram(dir_grafo, 7, 20, "Felipe", "felipe_20");
     populaNoInstagram(dir_grafo, 8, 35, "Renata", "renata_35");
 
-    mostraPerfil(dir_grafo, 3);
-
     mostrarGrafo(dir_grafo);
+
+    mostraPerfil(dir_grafo, 3);
     maiorNumeroSeguidores(dir_grafo);
+    menorNumeroSeguidores(dir_grafo);
+    pessoasQueSeguemMaisVelhas(dir_grafo);
 
 
     return 0;
